@@ -1,5 +1,4 @@
-# git-github-controle-de-versao
-Curso de Git e Github: Controle e compartilhe seu código
+# Curso de Git e Github: Controle e compartilhe seu código
 ![](https://wwww.alura.com.br/assets/api/share/curso-git-github-controle-de-versao.png)
 
 ## O que é GIT?
