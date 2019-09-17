@@ -36,3 +36,6 @@ Nesta aula, aprendemos:
 - Que o Git nos possibilita salvar marcos da nossa aplicação, como por exemplo, lançamento de versões, através do `git tag`;
 - Que o comando `git tag -a` é utilizado para gerar uma nova *tag*;
 - As ***Releases*** do GitHub, que são geradas para cada *tag* do Git criada em nosso repositório.
+
+
+https://cursos.alura.com.br/user/maisongalvao/course/git-github-controle-de-versao/certificate
