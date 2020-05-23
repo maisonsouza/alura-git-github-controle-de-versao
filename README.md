@@ -6,12 +6,19 @@
 ## Iniciando os trabalhos
 
 ## Compartilhando o trabalho
+- O que são repositórios remotos;
+- Como criar um repositório Git sem uma cópia dos arquivos (com `--bare`) para ser utilizado como servidor;
+- Como adicionar links para os repositórios remotos, com o comando `git remote add`;
+- Como baixar um repositório pela primeira vez, clonando-o com o comando `git clone`;
+- Como trazer e enviar as nossas alterações para um repositório remoto, com `git push`;
+- Como atualizar o nosso repositório com os dados no repositório remoto, utilizando `git pull`;
+- O que é e para que serve o **GitHub**;
+- Como criar um repositório no **GitHub**;
+- Como adicionar um repositório do **GitHub** como repositório remoto.
 
 ## Trabalhando em equipe
 
 ## Manipulando as versões
-Nesta aula, aprendemos:
-
 Nesta aula, aprendemos:
 
 - Que o Git pode nos ajudar a desfazer alterações que não vamos utilizar;
